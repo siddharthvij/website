@@ -125,20 +125,12 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:svij@stern.nyu.edu"
 
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/siddharth-vij-70807a6/"
+  #[[params.social]]
+  #  icon = "envelope"
+  #  icon_pack = "fa"
+  #  link = "mailto:svij@stern.nyu.edu"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/siddharthvij"
 
 
 # Navigation Links
