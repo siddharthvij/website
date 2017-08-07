@@ -1,4 +1,6 @@
 +++
+
+
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
@@ -16,7 +18,7 @@ weight = 60
 
 ## Instructor
 
-##### Corporate Finance (UG) -- Summer 2015 [[Syllabus](/pdf/Syllabus.pdf)] [[Evaluations](/pdf/CFE.pdf)]
+##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus.pdf" target="_blank">[Syllabus]</a>  <a href="/pdf/CFE.pdf" target="_blank">[Evaluations]</a>
 
 - Awarded Commendation for Teaching Excellence
 - Instructor rating: 6.8 out of 7
@@ -27,3 +29,4 @@ weight = 60
 
 - MBA: Fall 2014, Spring 2015, Fall 2015, Fall 2016
 - UG: Spring 2015
+
