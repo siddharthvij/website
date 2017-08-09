@@ -30,7 +30,6 @@ weight = 1
 # institution = "Stanford University"
 # year = 2012
 
- mobile = "+1 (646) 305-2437"
  
 +++
 
