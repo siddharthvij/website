@@ -1,4 +1,4 @@
-baseurl = "https://siddharthvij.github.io/"  # End your URL with a `/` trailing slash.
+baseurl = "https://siddharthvij.com/"  # End your URL with a `/` trailing slash.
 title = "Siddharth Vij"
 copyright = "&copy; 2017 Siddharth Vij"
 theme = "academic"
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = false
   name = "Siddharth Vij"
   role = "PhD student, Finance"
   organization = "NYU Stern School of Business"
-  organization_url = "http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance"
+  organization_url = "www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "svij.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "svij@stern.nyu.edu"
