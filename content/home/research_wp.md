@@ -14,7 +14,7 @@ weight = 30
 
 +++
 
-##### Foreign Currency Borrowing of Corporations as Carry Trades: Evidence from India (with [Viral V. Acharya](pages.stern.nyu.edu/~sternfin/vacharya/))
+##### Foreign Currency Borrowing of Corporations as Carry Trades: Evidence from India (with [Viral V. Acharya](http://pages.stern.nyu.edu/~sternfin/vacharya/))
 
 <a href="/pdf/ECBCarryTrade_Paper.pdf" target="_blank">[Paper]</a>  <a href="/pdf/ECBCarryTrade_Slides.pdf" target="_blank">[Slides]</a>
 
