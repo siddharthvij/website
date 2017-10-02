@@ -1,4 +1,5 @@
 baseurl = "https://siddharthvij.com/"  # End your URL with a `/` trailing slash.
+# baseurl = "https://people.stern.nyu.edu/svij/"  # End your URL with a `/` trailing slash.
 title = "Siddharth Vij"
 copyright = "&copy; 2017 Siddharth Vij"
 theme = "academic"
@@ -9,7 +10,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-104420956-1"
+# googleAnalytics = "UA-104420956-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
