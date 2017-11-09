@@ -147,33 +147,26 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Research"
+  name = "Job Market Paper"
   url = "#research_jmp"
   weight = 2
-  identifier = "Research"
 
-[[menu.main]]
-  name = "JMP"
-  url = "#research_jmp"
-  weight = 3
-  parent = "Research"
 
 [[menu.main]]
   name = "Working Papers"
   url = "#research_wp"
-  weight = 4
-  parent = "Research"
+  weight = 3
 
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 
 

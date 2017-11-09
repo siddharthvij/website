@@ -26,13 +26,13 @@ weight = 1
 
 [[education.courses]]
  course = "Job Market Paper"
- links_url=""
+ links_url="/pdf/SVij_JMP.pdf"
 # institution = "Stanford University"
 # year = 2012
 
  
 +++
 
-## Welcome
 
-I am a PhD student in Finance at the NYU Stern School of Business. I conduct primarily empirical research in the fields of banking and corporate finance. 
+
+Welcome to my website. I am a PhD student in Finance at the NYU Stern School of Business conducting primarily empirical research in banking and corporate finance. I am currently on the Finance Job Market and will be available for interviews at the 2018 ASSA meetings in Philadelphia.
