@@ -13,8 +13,7 @@ weight = 1
 [interests]
   interests = [
     "Banking",
-    "Corporate Finance",
-    "Energy Markets"
+    "Corporate Finance"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,9 +23,9 @@ weight = 1
 # institution = "Stanford University"
 # year = 2012
 
-[[education.courses]]
- course = "Job Market Paper"
- links_url="/pdf/SVij_JMP.pdf"
+# [[education.courses]]
+# course = "Job Market Paper"
+# links_url="/pdf/SVij_JMP.pdf"
 # institution = "Stanford University"
 # year = 2012
 
@@ -35,4 +34,6 @@ weight = 1
 
 
 
-Welcome to my website. I am a PhD student in Finance at the NYU Stern School of Business conducting primarily empirical research in banking and corporate finance. I am currently on the Finance Job Market and will be available for interviews at the 2018 ASSA meetings in Philadelphia.
+Welcome to my website! I am a PhD student in Finance at the New York University Stern School of Business conducting primarily empirical research in banking and corporate finance. 
+
+I'll be joining the [Department of Finance](http://www.terry.uga.edu/academics/offices/finance) in the [Terry College of Business](http://www.terry.uga.edu/) at the [University of Georgia](http://www.uga.edu/) as an Assistant Professor in August 2018.

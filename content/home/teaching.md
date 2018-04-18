@@ -27,6 +27,6 @@ weight = 60
 
 ##### Corporate Finance for Prof. Philipp Schnabl 
 
-- MBA: Fall 2014, Spring 2015, Fall 2015, Fall 2016
+- MBA: Fall 2014, Spring 2015, Fall 2015, Fall 2016, Fall 2017
 - UG: Spring 2015
 
