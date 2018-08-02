@@ -34,6 +34,10 @@ weight = 1
 
 
 
-Welcome to my website! I am a PhD student in Finance at the New York University Stern School of Business conducting primarily empirical research in banking and corporate finance. 
+Welcome to my website! I am an Assistant Professor of Finance in the Terry College of Business at the University of Georgia.I conduct primarily empirical research in banking and corporate finance. 
 
-I'll be joining the [Department of Finance](http://www.terry.uga.edu/academics/offices/finance) in the [Terry College of Business](http://www.terry.uga.edu/) at the [University of Georgia](http://www.uga.edu/) as an Assistant Professor in August 2018.
+I completed a Ph.D. in Finance at the New York University Stern School of Business in May 2018
+
+<!-- I'll be joining the [Department of Finance](http://www.terry.uga.edu/academics/offices/finance) in the [Terry College of Business]
+(http://www.terry.uga.edu/) at the [University of Georgia](http://www.uga.edu/) as an Assistant Professor in August 2018.
+ -->

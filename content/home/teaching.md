@@ -16,17 +16,22 @@ weight = 60
 
 +++
 
-## Instructor
+## UGA Terry
+
+##### Corporate Finance Theory (UG) -- Fall 2018  
+
+
+## NYU Stern
 
 ##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus.pdf" target="_blank">[Syllabus]</a>  <a href="/pdf/CFE.pdf" target="_blank">[Evaluations]</a>
 
 - Awarded Commendation for Teaching Excellence
 - Instructor rating: 6.8 out of 7
 
-## Teaching Fellow
+<!-- ## Teaching Fellow
 
 ##### Corporate Finance for Prof. Philipp Schnabl 
 
 - MBA: Fall 2014, Spring 2015, Fall 2015, Fall 2016, Fall 2017
-- UG: Spring 2015
+- UG: Spring 2015 -->
 

@@ -23,19 +23,19 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Siddharth Vij"
-  role = "PhD student, Finance"
-  organization = "NYU Stern School of Business"
-  organization_url = "http://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/finance"
+  role = "Assistant Professor of Finance"
+  organization = "University of Georgia Terry College of Business"
+  organization_url = "http://www.terry.uga.edu/academics/offices/finance/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "svij.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "svij@stern.nyu.edu"
-  address = "NYU Stern School of Business, 44 West 4th Street, New York NY 10012 USA"
+  email = "siddharth.vij@uga.edu"
+  address = "620 S. Lumpkin St, Amos Hall B324, Athens GA 30602 USA"
   office_hours = ""
-  phone = "+1-212-998-0374"
+  # phone = "+1-212-998-0374"
   mobile = "+1-646-305-2437"
   skype = "siddharth_vij"
   telegram = ""
-  logo = "stern.jpg"
+  logo = "uga.jpg"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -91,7 +91,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["nyu.css"]
+  custom_css = ["uga.css"]
   custom_js  = []
 
   # Publication types.
