@@ -14,7 +14,7 @@ weight = 30
 
 +++
 
-##### Acquiring Failed Banks <a href="/pdf/SVij_JMP.pdf" target="_blank">[Paper]</a>  
+##### Acquiring Failed Banks <a href="/pdf/AcquiringFailedBanks_Paper.pdf" target="_blank">[Paper]</a>  
 
 <details>
   <summary>Abstract</summary>

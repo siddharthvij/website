@@ -18,12 +18,12 @@ weight = 60
 
 ## UGA Terry
 
-##### Corporate Finance Theory (UG) -- Fall 2018  
+##### Corporate Finance Theory (UG) -- Fall 2018  <a href="/pdf/Syllabus_UGA.pdf" target="_blank">[Syllabus]</a>
 
 
 ## NYU Stern
 
-##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus.pdf" target="_blank">[Syllabus]</a>  <a href="/pdf/CFE.pdf" target="_blank">[Evaluations]</a>
+##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus_NYU.pdf" target="_blank">[Syllabus]</a>  <a href="/pdf/CFE.pdf" target="_blank">[Evaluations]</a>
 
 - Awarded Commendation for Teaching Excellence
 - Instructor rating: 6.8 out of 7

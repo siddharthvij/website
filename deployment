@@ -1,0 +1,12 @@
+
+git init
+git add .
+git commit -m "Commit date"
+git push origin master
+git submodule add -f -b master https://github.com/siddharthvij/siddharthvij.github.io.git public
+hugo
+cd public
+git add .
+git commit -m "Website date"
+* git pull
+git push origin master
