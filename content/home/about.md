@@ -23,7 +23,7 @@ weight = 1
 # institution = "Stanford University"
 # year = 2012
 
-# [[education.courses]]
+[[education.courses]]
  course = "Official Website"
  links_url="http://www.terry.uga.edu/directory/profile/sv85734/"
 # institution = "Stanford University"
