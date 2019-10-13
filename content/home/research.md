@@ -14,6 +14,13 @@ weight = 30
 
 +++
 
+##### Unearthing Zombies: Regulatory Intervention To Aid Legal Reform (with [Nirupama Kulkarni](https://sites.google.com/site/nirupamarkulkarni/home), [SK Ritadhi](https://sites.google.com/view/skritadhi), and [Katherine Waldock](https://katewaldock.com/) ) <a href="/pdf/Zombies_Paper.pdf" target="_blank">[Paper]</a>  
+
+<details>
+  <summary>Abstract</summary>
+  <blockquote> We study how regulatory interventions can bridge the gap between the passage of bankruptcy laws and their effective implementation. In 2016, India introduced a bankruptcy law giving creditors the power to refer defaulting borrowers to a quasi-judicial body for resolution. Using supervisory data on the universe of large bank-borrower relationships, we examine the likelihood of loans being classified as distressed, a precursor to starting bankruptcy proceedings. We find that the bankruptcy law had only a limited impact on banks classifying loans as distressed, and this impact was particularly muted for larger borrowers. Consequently, the law change had minimal impact on credit allocation and borrower behavior. However, a 2018 regulatory intervention from the central bank compelling all banks to immediately recognize defaulting borrowers and to refer them for bankruptcy proceedings resulted in a 60 percent increase in recognition of distressed assets, though with more muted effects in weaker banks. Identifying effects based on bank-borrower size thresholds targeted by the intervention, we show that the regulatory action led to reallocation of credit from distressed firms to creditworthy firms in the same industry.  Overall, our results indicate that regulatory action might be necessary, above and beyond bankruptcy reform, to target "zombie" lending in the presence of an undercapitalized banking system. </blockquote>
+</details>
+
 ##### Acquiring Failed Banks <a href="/pdf/AcquiringFailedBanks_Paper.pdf" target="_blank">[Paper]</a>  
 
 <details>

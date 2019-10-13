@@ -25,7 +25,7 @@ weight = 1
 
 [[education.courses]]
  course = "Official Website"
- links_url="http://www.terry.uga.edu/directory/profile/sv85734/"
+ links_url="https://www.terry.uga.edu/directory/finance/siddharth-vij.html"
 # institution = "Stanford University"
 # year = 2012
 
