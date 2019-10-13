@@ -23,15 +23,18 @@ weight = 60
 
 ## NYU Stern
 
+<<<<<<< HEAD
 ##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus_NYU.pdf" target="_blank">[Syllabus]</a> 
+=======
+##### Corporate Finance (UG) -- Summer 2015  <a href="/pdf/Syllabus_NYU.pdf" target="_blank">[Syllabus]</a>  
+>>>>>>> 03dc0db6f94080bfd488b341b9188ce249572ffd
 
 - Awarded Commendation for Teaching Excellence
 
 
 <!-- ## Teaching Fellow
 
-##### Corporate Finance for Prof. Philipp Schnabl 
+##### Corporate Finance for Prof. Philipp Schnabl
 
 - MBA: Fall 2014, Spring 2015, Fall 2015, Fall 2016, Fall 2017
 - UG: Spring 2015 -->
-
