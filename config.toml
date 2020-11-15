@@ -1,7 +1,7 @@
 baseurl = "https://siddharthvij.com/"  # End your URL with a `/` trailing slash.
 # baseurl = "https://people.stern.nyu.edu/svij/"  # End your URL with a `/` trailing slash.
 title = "Siddharth Vij"
-copyright = "&copy; 2019 Siddharth Vij"
+copyright = "&copy; 2020 Siddharth Vij"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
   address = "620 S. Lumpkin St, Amos Hall B324, Athens GA 30602 USA"
   office_hours = ""
   # phone = "+1-212-998-0374"
-  mobile = "+1-646-305-2437"
+  # mobile = "+1-646-305-2437"
   skype = "siddharth_vij"
   telegram = ""
   logo = "ugaterry.jpg"
@@ -129,10 +129,10 @@ defaultContentLanguageInSubdir = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
 
-  #[[params.social]]
-  #  icon = "envelope"
-  #  icon_pack = "fa"
-  #  link = "mailto:siddharth.vij@uga.edu"
+  [[params.social]]
+    icon = "ssrn"
+    icon_pack = "ai"
+    link = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1580418"
 
 
 
