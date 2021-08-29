@@ -1,7 +1,7 @@
 baseurl = "https://siddharthvij.com/"  # End your URL with a `/` trailing slash.
 # baseurl = "https://people.stern.nyu.edu/svij/"  # End your URL with a `/` trailing slash.
 title = "Siddharth Vij"
-copyright = "&copy; 2020 Siddharth Vij"
+copyright = "&copy; 2021 Siddharth Vij"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
