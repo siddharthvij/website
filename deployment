@@ -10,3 +10,5 @@ git add .
 git commit -m "Website date"
 * git pull
 git push origin master
+
+Major issue with index.html. Not taking info for teaching, research etc. Edit old version to make changes
